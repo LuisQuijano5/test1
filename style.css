@@ -1,0 +1,63 @@
+.image{
+    position: absolute;
+    left: 300px;
+    top: 5px;
+}
+
+.cimage{
+    position: absolute;
+    left: 450px;
+    top: 5px;
+}
+
+.extra1{
+    position: absolute;
+    left: 5px;
+    top: 100px;
+}
+
+.extra2{
+    position: absolute;
+    left: 5px;
+    top: 400px;
+}
+
+
+.button1{
+    background-color: rgba(6, 6, 147, 100);
+    font-size: 24px;
+    border: none;
+    color: white;
+    padding: auto;
+    margin: auto;
+    border: auto;
+    text-align: center;
+    text-decoration: none;
+}
+
+.finish{
+    background-color: black;
+    font-size: 48px;
+    border: none;
+    color: white;
+    text-align: auto;
+    text-decoration: none;
+    margin: 200px 400px;
+    padding: 100px 200px;
+}
+
+#tirar{
+    display: inline-block;
+}
+
+#segunda{
+    display: none;
+}
+
+#win{
+    display: none;
+}
+
+#lose{
+    display: none;
+}
